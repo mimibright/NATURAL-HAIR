@@ -1,0 +1,15 @@
+html{
+    background-color: rgb(246, 246, 221);
+}
+.container{
+    display: flex;
+    justify-content: space-between;
+}
+.wrapper{
+    display: flex;
+    justify-content: center;
+    text-decoration: underline;
+    text-decoration-color: #94958b;
+    color: #B7B6C1;
+    font: arial large;
+}

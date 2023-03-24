@@ -1,0 +1,26 @@
+html{
+    background-color: beige;
+}
+.container1{
+    display: flex;
+    justify-content: space-between;
+}
+
+
+.container{
+    width: 400px;
+    height:400px ;
+    margin: 5px;
+}
+
+.wrapper1{
+    justify-content: center;
+    display: flex;
+    text-decoration: underline;
+    text-decoration-color: #94958b;
+    color: #B7B6C1;
+    font: arial large;
+}
+li{
+    list-style-type: none;
+}

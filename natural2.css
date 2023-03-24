@@ -1,0 +1,28 @@
+html{
+    background-color:beige;
+
+}
+.wrapper{
+    display: flex;
+    justify-content: center;
+
+}
+
+fieldset{
+    background-color: #d1cfe9;
+    color:purple;
+    width: 800px;
+    height: 300px;
+    margin: 10px;
+    padding: 10px;
+}
+legend{
+    border: 1px solid #000000;
+    background-color: #d1cfe9;
+}
+button:hover{
+    background-color:  #968fe2;
+}
+link:visited{
+color: #551A8b;
+}
